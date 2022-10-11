@@ -121,7 +121,7 @@ header img {
   -webkit-transition: .3s;
   -o-transition: .3s;
   transition: .3s;
-  right: -600px;
+  right: -100%;
 }
 
 
@@ -211,6 +211,7 @@ header img {
   margin: 0 auto;
   text-align: center;
   line-height: 1.7;
+  padding: 0 10px;
 }
 
 /* Features */
