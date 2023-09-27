@@ -4,3 +4,5 @@ let closeNav = document.querySelector(".nav .close");
 
 show.onclick = () => nav.style.right = '0';
 closeNav.onclick = () => nav.style.right = '-600px';
+
+new WOW().init();
